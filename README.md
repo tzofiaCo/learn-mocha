@@ -422,9 +422,10 @@ npm install istanbul --save-dev
 Run the following command to get a coverage report:
 
 ```sh
-./node_modules/.bin/istanbul cover _mocha -- -R spec
+npm run cover
 ```
-(or globally, with ```istanbul cover _mocha -- -R spec```)
+(or directly ```./node_modules/.bin/istanbul cover _mocha -- -R spec```, or globally, with ```istanbul cover _mocha -- -R spec```)
+Note: on Windows paths maybe slightly different, see [here](https://github.com/gotwarlost/istanbul#usage-on-windows).
 
 You should see:
 
