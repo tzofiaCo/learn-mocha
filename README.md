@@ -21,6 +21,7 @@ For students, follow these steps:
 - ID#:
 - github username: 
 - Estimation of hours I worked on it: 
+- Link to travis: https://travis-ci.org/jce-il/learn-mocha  
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
